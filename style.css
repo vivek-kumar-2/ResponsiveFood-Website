@@ -77,7 +77,7 @@
 
 #home::before{
     content: "";
-    background: url('bg.jpg') no-repeat center center/cover;
+    background: url('img/bg.jpg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -138,7 +138,8 @@
 
 .btn:hover{
     
-    color: blue;   
+    color: blue; 
+    background-color: bisque;  
 }
 
 .center{
