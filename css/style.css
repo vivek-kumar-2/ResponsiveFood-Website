@@ -23,7 +23,7 @@ html{
 
 #navbar::before{
     content: "";
-    background-color: rgb(70, 151, 161);
+    background-color: rgb(208, 233, 224);
     position: absolute;
     top:0px;
     left:0px;
