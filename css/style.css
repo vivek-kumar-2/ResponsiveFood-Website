@@ -39,7 +39,8 @@ html{
 }
 
 #logo img{
-    background-color: black;
+    border: 1px solid aqua;
+    border-radius: 150px;
     height: 64px;
     margin: 2px 6px;
 }
