@@ -221,14 +221,22 @@ footer{
 .btn{
     padding: 6px 20px;
     border: 2px solid white;
-    background-color: brown;
+    background-color: rgb(98, 152, 206);
     color: white;
     margin: 17px;
     font-size: 1.5rem;
     border-radius: 10px;
     cursor:pointer;
+    align-self: center;
+}
+.btn:hover{
+    background-color: aqua;
 }
 
 .center{
     text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
 }
